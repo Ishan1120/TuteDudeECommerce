@@ -1,0 +1,36 @@
+# Gradle
+.gradle/
+build/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Local configuration
+local.properties
+
+# Logs
+*.log
+
+# Android artifacts
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Keystores (do not commit real keys)
+*.jks
+*.keystore
+
+# Firebase config (add locally per env)
+google-services.json
+GoogleService-Info.plist
