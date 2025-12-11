@@ -67,7 +67,7 @@ Users can upload:
 1. Clone the repository
 2. Open the project in Android Studio
 3. Place your **google-services.json** inside:  app/
-4. 4. Connect a device / open emulator
+4. Connect a device / open emulator
 5. Click **Run**
 
 ---
@@ -80,5 +80,6 @@ GitHub: Ishan1120
 
 ## 📄 License
 This project is for educational purposes as part of the TuteDude assignment.
+
 
 
