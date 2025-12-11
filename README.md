@@ -3,7 +3,7 @@
 APK is provided in this repo itself.
 
 This project is an e-commerce Android application built as part of the **TuteDude Android Assignment**.  
-The app demonstrates modern Android development including **Firebase Authentication, MVVM, Hilt, Room, Jetpack Compose and  XML UI.
+The app demonstrates modern Android development including Firebase Authentication, MVVM, Hilt, Room, Jetpack Compose and  XML UI.
 
 ---
 
@@ -80,6 +80,7 @@ GitHub: Ishan1120
 
 ## 📄 License
 This project is for educational purposes as part of the TuteDude assignment.
+
 
 
 
